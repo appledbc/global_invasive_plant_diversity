@@ -3,7 +3,7 @@
 # @Date:   2023-06-23 00:06:57
 # @Last Modified by: dbc
 # @Last Modified time: 2024-12-03 23:54:25
-# @description: 根据各国，计算平均PCA值
+# @description: 
 
 # library(devtools)
 # install_github("bleutner/RStoolbox")
