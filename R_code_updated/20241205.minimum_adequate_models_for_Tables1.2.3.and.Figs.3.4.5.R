@@ -3,7 +3,7 @@
 # @Date: 2023-07-29 20:50:12
 # @Last Modified by: dbc
 # @Last Modified time: 2024-11-21 23:01:08
-# @Description: Tables 1_3 and Figures 3_6
+# @Description: Tables 1_3 and Figures 3_5
 
 # loading packages
 # pacman::p_load(readr,pedometrics)
